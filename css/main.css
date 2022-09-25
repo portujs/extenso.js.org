@@ -28,6 +28,9 @@
   text-align: center;
   padding: 10px 0;
   background-color: antiquewhite;
+  position: sticky;
+  top: 0;
+  z-index: 999;
 }
 .api-banner .container {
   color: black;
