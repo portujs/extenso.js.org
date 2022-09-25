@@ -13,7 +13,7 @@ cd clone
 ### `package.json` scripts
 
 * `npm start` - Rodar página em `localhost:5000`
-* `npm run deplpy` - Fazer deploy do site no GitHub Pages
+* `npm run deploy` - Fazer deploy do site no GitHub Pages
 
 ### License
 
